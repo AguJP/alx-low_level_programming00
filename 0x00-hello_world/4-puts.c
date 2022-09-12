@@ -1,8 +1,12 @@
 #include <stdio.h>
 
+/**
+* Code to print to standard output
+* using the 'puts' function
+*/
+
 int main(void)
 {
-    char my_output = "Programming is like building a multilingual puzzle;
-    int puts my_output;
-    return (0);
+  puts ("\"Programming is like building a multilingual puzzle");
+  return (0);
 }
