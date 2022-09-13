@@ -16,7 +16,7 @@ int main(void)
 
 	for (abichiidi = 'a';abichiidi <= 'z';abichiidi++)
 
-		if (abichiidi != ('e' || 'q')
+		if (abichiidi != ('e' || 'q'))
 			putchar(abichiidi);
 
 
