@@ -20,8 +20,8 @@ int main(void)
 		if (i < '9')
 			putchar(',');
 				putchar(' ');
-				putchar('\n');
 	}
+	putchar('\n');
 
 /* Program to return 0 (Success) */
 	return (0);
