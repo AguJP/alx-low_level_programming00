@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * Main - Program entry point
+ * main - Program entry point
  *
  * Description: Program to print lowercase alphabets except q and e
  *
@@ -14,9 +14,13 @@ int main(void)
 {
 	char abichiidi;
 
-	for (abichiidi = 'a';abichiidi <= 'z';abichiidi++)
+	for (abichiidi = 'a'; abichiidi <= 'z'; abichiidi++)
 
-		if (abichiidi != ('e' || 'q'))
+		if (abichiidi == 'e')
+			;
+		else if (abichiidi == 'q')
+			;
+		else
 			putchar(abichiidi);
 
 
