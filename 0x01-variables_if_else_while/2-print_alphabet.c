@@ -18,7 +18,7 @@ int main(void)
 	{
 		putchar(abichiidi);
 	}
-	putchar("\n");
+	putchar('\n');
 /* Program to return 0 (Success) */
 	return (0);
 }
