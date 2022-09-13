@@ -18,7 +18,8 @@ int main(void)
 	{
 		putchar(i);
 		while (i < '9')
-			putchar(", ");
+			putchar(',');
+		putchar(' ');
 	}
 	putchar('\n');
 
