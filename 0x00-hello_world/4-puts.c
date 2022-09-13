@@ -2,7 +2,13 @@
 #include <stdio.h>
 /* Include std input and output header files*/
 
-/* Description: Function main to returns void */
+/**
+ * main - Entry point
+ *
+ * Desciption: 'The program prints texts to standard output
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void) /* This is function main */
 /* Description: Function main prints texts to std output, returns void */
 {
