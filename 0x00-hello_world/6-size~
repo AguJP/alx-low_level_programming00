@@ -1,0 +1,12 @@
+/* Program to print size of different types */
+#include <stdio.h>
+#include <stddef.h>
+
+/**
+ * main - Entry point
+ *
+ * Description: Program prints the size of different types in bytes
+ *
+ *Return: Always 0 (Success)
+ */
+int main(void)
