@@ -3,7 +3,7 @@
 /* Include std input and output header files*/
 
 /* Description: Function main to returns void */
-int main(void)
+int main(void) /* This is function main */
 /* Description: Function main prints texts to std output, returns void */
 {
 	puts("\"Programming is like building a multilingual puzzle");
