@@ -14,7 +14,7 @@ int main(void)
 {
 	char abichiidi;
 
-	for (abichiidi = 'z'; abichiidi <= 'a'; --abichiidi)
+	for (abichiidi = 'z'; abichiidi >= 'a'; abichiidi--)
 	{
 		putchar(abichiidi);
 	}
