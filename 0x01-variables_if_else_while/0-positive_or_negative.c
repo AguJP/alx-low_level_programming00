@@ -1,0 +1,29 @@
+/* Program to determine the sign of value n */
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+
+/**
+ * main - Entry point
+ *
+ * Description: Program to determine the sign of a random number n
+ *
+ * Return: Always 0 (Success)
+ */
+
+int main(void)
+{
+	int n;
+
+	srand(time(0));
+	n = rand() - RAND_MAX / 2;
+
+	if (n < 0)
+		printf ("%d is negative\n", n);
+	else if (n > 0)
+		printf ("%d is positive\n", n);
+	else
+		pritnf ("%d is zero\n", n);
+/* Program to return 0 (Success) */
+	return (0);
+}
