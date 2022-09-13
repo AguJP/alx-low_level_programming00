@@ -13,10 +13,12 @@
 int main(void)
 {
 	char abichiidi;
+
 	for (abichiidi = 'a'; abichiidi <= 'z'; abichiidi++)
 	{
 		putchar(abichiidi);
 	}
-	/* Program to return 0 (Success) */
-	return 0;
+	putchar(\n);
+/* Program to return 0 (Success) */
+	return (0);
 }
