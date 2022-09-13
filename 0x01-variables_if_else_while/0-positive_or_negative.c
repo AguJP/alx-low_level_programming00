@@ -23,7 +23,7 @@ int main(void)
 	else if (n > 0)
 		printf ("%d is positive\n", n);
 	else
-		pritnf ("%d is zero\n", n);
+		printf ("%d is zero\n", n);
 /* Program to return 0 (Success) */
 	return (0);
 }
