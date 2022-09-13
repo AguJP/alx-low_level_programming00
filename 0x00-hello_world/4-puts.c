@@ -2,9 +2,11 @@
 #include <stdio.h>
 /* Include std input and output header files*/
 
-/* Function main to return void */
+/* Function main to returns void */
 int main(void)
-/* Function main prints a stream of texts to std output */
+/* Function main prints texts to std output
+ *Function main returns void
+ */
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	/* Program to return 0 */
