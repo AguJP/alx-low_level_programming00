@@ -17,11 +17,11 @@ int main(void)
 	int ll = sizeof(long long int);
 	int f = sizeof(float);
 
-	printf ("size of a char: %d byte(s)" ,c);
-	printf ("size of an int: %d byte(s)" ,i);
-	printf ("size of a long int: %d byte(s)" ,l);
-	printf ("size of a long long int: %d byte(s)" ,ll);
-	printf ("size of a float: %d byte(s)" ,f);
+	printf("size of a char: %d byte(s)\n",c);
+	printf("size of an int: %d byte(s)\n",i);
+	printf("size of a long int: %d byte(s)\n",l);
+	printf("size of a long long int: %d byte(s)\n",ll);
+	printf("size of a float: %d byte(s)\n",f);
 
 /* Program to return 0 (Success) */
 	return (0);
