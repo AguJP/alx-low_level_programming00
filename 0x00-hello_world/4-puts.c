@@ -2,8 +2,8 @@
 #include <stdio.h>
 /* Include std input and output header files*/
 
-/* Function main to return void */
 int main(void)
+/* Function main to return void */
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	/* Program to return 0 */
