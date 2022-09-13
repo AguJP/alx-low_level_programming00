@@ -23,7 +23,7 @@ int main(void)
 			putchar(' ');
 		}
 	}
-
+	putchar('\n');
 /* Program to return 0 (Success) */
 	return (0);
 }
