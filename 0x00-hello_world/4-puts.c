@@ -4,7 +4,8 @@
 
 /* Function main to returns void */
 int main(void)
-/* Function main prints texts to std output
+/**
+ *Function main prints texts to std output
  *Function main returns void
  */
 {
