@@ -1,3 +1,4 @@
+/* function to print the alphabets 10x */
 #include "main.h"
 
 /**
