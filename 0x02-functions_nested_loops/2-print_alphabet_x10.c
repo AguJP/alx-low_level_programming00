@@ -9,6 +9,7 @@
  * Return: Program to return 0 (Success)
  */
 
+/* Program to print alphabet 10x */
 void print_alphabet_x10(void)
 {
 	int i;
