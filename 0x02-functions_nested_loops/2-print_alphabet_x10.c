@@ -11,6 +11,7 @@
 
 /* Program to print alphabet 10x */
 void print_alphabet_x10(void)
+/* Program to print alphabet 10x */
 {
 	int i;
 	char j;
