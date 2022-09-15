@@ -1,7 +1,10 @@
 #include "main.h"
 
 /**
- * main - print putchar
+ * main - Entry point
+ *
+ * Description: 'Program to print _putchar'
+ *
  * Return: always 0
  */
 
@@ -15,6 +18,6 @@ int main(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
-	
+
 	return (0);
 }
