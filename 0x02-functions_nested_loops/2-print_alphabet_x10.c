@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Description: 'Program to print the alphabets 10x times'
+ * Description: 'Program to print 10 times the alphabets in lowercase'
  *
  * Return: Program to return 0 (Success)
  */
