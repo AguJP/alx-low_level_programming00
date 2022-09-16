@@ -5,14 +5,14 @@
 /**
  * main - Entry point
  *
- * Description: 'Program to print 10 times the alphabets in lowercase'
+ * Description: 'Program to print 10 times the alphabet in lowercase'
  *
  * Return: Program to return 0 (Success)
  */
 
-/* Program to print alphabets 10x */
+/* Program to print alphabet in lowercase 10 times */
 void print_alphabet_x10(void)
-/* Program to print alphabets 10x */
+/* Program to print alphabet in lowercase 10 times */
 {
 	int i;
 	char j;
