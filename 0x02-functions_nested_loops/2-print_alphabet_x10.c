@@ -1,17 +1,18 @@
 /* function to print the alphabets 10x */
+
 #include "main.h"
 
 /**
  * main - Entry point
  *
- * Description: Program to print the alphabets 10 times
+ * Description: 'Program to print the alphabets 10x times'
  *
  * Return: Program to return 0 (Success)
  */
 
-/* Program to print alphabet 10x */
+/* Program to print alphabets 10x */
 void print_alphabet_x10(void)
-/* Program to print alphabet 10x */
+/* Program to print alphabets 10x */
 {
 	int i;
 	char j;
