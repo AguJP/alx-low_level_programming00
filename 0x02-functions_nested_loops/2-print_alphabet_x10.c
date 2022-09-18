@@ -5,9 +5,9 @@
 /**
  * main - Entry point
  *
- * print_alphabet_x10 - function to print abc 10 times
+ * Description: print_alphabet_x10 - function to print abc 10 times
  *
- * Return: Program to return 0 (Success)
+ * Return: 0 (Success)
  */
 
 void print_alphabet_x10(void)
