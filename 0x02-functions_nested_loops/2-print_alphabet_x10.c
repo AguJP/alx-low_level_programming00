@@ -3,6 +3,8 @@
 #include "main.h"
 
 /**
+ * main - Entry point
+ *
  * print_alphabet_x10: function to print 10 times the alphabet in lowercase
  *
  * Return: Program to return 0 (Success)
