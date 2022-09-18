@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Description: 'Program to print 10 times the alphabet in lowercase'
+ * 2-print_alphabet_x10: 'Program to print 10 times the alphabet in lowercase'
  *
  * Return: Program to return 0 (Success)
  */
