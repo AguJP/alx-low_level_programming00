@@ -11,7 +11,7 @@
  */
 
 void print_alphabet_x10(void)
-
+/* funtion to print abc 10 times */
 {
 	char i;
 	char j;
