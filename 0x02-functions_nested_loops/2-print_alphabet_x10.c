@@ -10,9 +10,8 @@
  * Return: Program to return 0 (Success)
  */
 
-/* Program to print alphabet in lowercase 10 times */
 void print_alphabet_x10(void)
-/* Program to print alphabet in lowercase 10 times */
+
 {
 	int i;
 	char j;
