@@ -3,9 +3,9 @@
 /**
  * add - function to add two integers a, b
  *
- * &a: first integer to be added
+ * @a: first integer to be added
  *
- * &b: second integer to be added
+ * @b: second integer to be added
  *
  * Return: 0
  */
