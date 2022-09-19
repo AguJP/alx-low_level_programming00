@@ -12,7 +12,7 @@ void jack_bauer(void)
 	int hr = 0;
 	int mn = 0;
 
-	for (hr = '0'; hr <= 23 hr++)
+	for (hr = '0'; hr <= 23; hr++)
 	{
 		for (mn = '0'; mn <= 59; mn++)
 		{
