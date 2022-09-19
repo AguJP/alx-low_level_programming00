@@ -5,7 +5,7 @@
  *
  * @n: number to determine absolute value
  *
- *return: 0
+ * return: 0
  */
 
 int _abs(int n)
