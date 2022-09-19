@@ -9,23 +9,23 @@
 void jack_bauer(void)
 
 {
-	int h = 0;
-	int m = 0;
+	int hr = 0;
+	int mn = 0;
 
-	for (h = 0; h < 60; h++)
-		for (m = 0; m < 60; m++)
+	for (hr = 0; hr <= 59; hr++)
+		for (mn = 0; mn <= 59; mn++)
 		{
-			if (h <= 9)
+			if (hr <= 9)
 			{
 				_putchar('0');
 			}
-			_putchar(h + '0');
+			_putchar(hr + '0');
 			_putchar(':');
-			if (m <= 9)
+			if (mn <= 9)
 			{
 				_putchar('0');
 			}
-			_putchar(m + '0');
+			_putchar(mn + '0');
 			_putchar('\n');
 		}
 
