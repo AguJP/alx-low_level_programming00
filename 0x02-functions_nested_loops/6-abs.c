@@ -8,12 +8,12 @@
  *return: 0
  */
 
-int _abs(int)
+int _abs(int n)
 {
-	int c;
 
-	if (c >= 0)
-		return (c);
+	if (n >= 0)
+		return (n);
 	else
-		return (c * -1);
+		n *= -1
+			return (n);
 }
