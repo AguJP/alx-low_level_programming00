@@ -12,14 +12,10 @@ void jack_bauer(void)
 	int hr = 0;
 	int mn = 0;
 
-	for (hr = '0'; hr <= 23; hr++)
-	{
-		for (mn = '0'; mn <= 59; mn++)
-		{
+	for (hr = 0; hr <= 23; hr++)
+		for (mn = 0; mn <= 59; mn++)
 			if (hr <= 9)
-			{
 				_putchar('0');
-			}
 			else
 			{
 				_putchar(hr / 10);
@@ -39,7 +35,5 @@ void jack_bauer(void)
 			}
 
 			_putchar('\n');
-		}
-	}
 
 }
