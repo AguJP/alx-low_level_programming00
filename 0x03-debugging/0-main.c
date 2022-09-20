@@ -2,6 +2,7 @@
 
 /**
  * main -tests function that prints if integer is positve or negative
+ * @i: value to be tested
  * Return: 0
  */
 
