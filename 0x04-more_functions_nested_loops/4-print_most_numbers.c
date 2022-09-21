@@ -12,7 +12,7 @@ void print_most_numbers(void)
 
 	while (i <= '9')
 	{
-		if (i != (2 || 4))
+		if (i != ('2' || '4'))
 			_putchar(i);
 		else
 			continue;
