@@ -10,15 +10,13 @@ void print_triangle(int size)
 {
 	int i;
 	int j;
-	int k = size;
 	int m;
 
 	if (size >= 1)
 	{
 		for (i = 1; i <= size; i++)
 		{
-			k--;
-			for (j = 0; j < k; j++)
+			for (j = 0; j < (size -1) - i; j++)
 			{
 				_putchar('.');
 			}
