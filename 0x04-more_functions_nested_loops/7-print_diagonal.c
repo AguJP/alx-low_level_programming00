@@ -3,14 +3,13 @@
 /**
  * print_diagonal - function to print a diagonal line
  * @n: number of times to print '\'
- * Return: 0
+ * Return: a diagonal
  */
 
 void print_diagonal(int n)
 {
 	int i;
 	int j;
-	int n;
 
 	if (n >= 1)
 	{
