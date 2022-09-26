@@ -11,13 +11,14 @@ void print_rev(char *s)
 	int c = 0;
 	int i;
 	int j;
-	char ch[];
 	int n = 0;
 
 	for (i = 0; s[i] != '\0'; i++)
 	{
 		c++;
 	}
+
+	char ch[c];
 
 	for (j = c - 1; j >= 0; j--)
 	{
